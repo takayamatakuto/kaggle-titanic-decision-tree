@@ -19,6 +19,13 @@
   - Accuracy：0.74641（Kaggle Public Score）
 - **Improved（titanic_improved.ipynb）**
   - Accuracy：0.77511（Kaggle Public Score）
+## リポジトリ構成
+```
+kaggle_titanic/
+├─README.md           
+├─ titanic_baseline.ipynb
+└─titanic_improved.ipynb
+```
 ## 今後の改善
 本分析では、自力でのモデル構築と無理の無い応用を重視し、比較的シンプルな構成で決定木モデルを構築した。  
 一方で、以下のような改善余地があると考えている。
